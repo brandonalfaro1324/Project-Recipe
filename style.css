@@ -1,0 +1,33 @@
+.image-center{
+    text-align: center;
+}
+
+#background-gradient{
+    background: linear-gradient(to right,green, white, red);
+}
+
+#list-container {
+    text-align: center;
+}
+  
+.lists {
+    background-color: #ffdf80;
+    display: inline-block;
+    text-align: left;
+    margin: -5px;
+
+}
+
+.font-alignment{
+    text-align: center;
+    margin: -5px;
+}
+
+
+.font-text{
+    display: inline-block;
+    font-size: 42px;
+    font-family: fantasy;
+    background-color: black;
+    color: white;
+}
